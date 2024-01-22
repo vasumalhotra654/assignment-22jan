@@ -1,0 +1,10 @@
+.mfg-date
+{
+    color:white;
+    background-color: black;
+    height:60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+}
